@@ -1,0 +1,9 @@
+Found 168 prime numbers. Time to run the prime number generator for numbers under 1000 is 0.0015 seconds.
+
+Found 1229 prime numbers. Time to run the prime number generator for numbers under 10000 is 0.0109 seconds.
+
+Found 9592 prime numbers. Time to run the prime number generator for numbers under 100000 is 0.1969 seconds.
+
+Found 78498 prime numbers. Time to run the prime number generator for numbers under 1000000 is 4.0635 seconds.
+
+Found 664579 prime numbers. Time to run the prime number generator for numbers under 10000000 is 117.2665 seconds.

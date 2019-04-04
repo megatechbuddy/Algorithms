@@ -1,0 +1,2 @@
+from src_python import Prime_Number_Algorithm
+from src_python import test_Prime_Number_Algorithm
